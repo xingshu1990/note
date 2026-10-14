@@ -1,3 +1,7 @@
+在线编译地址：https://firmware-selector.immortalwrt.org/
+版本：24.10.6
+
+
 ### LAN IP（ImmortalWrt 自己）
 lan_ip_address="192.168.1.229"
 
