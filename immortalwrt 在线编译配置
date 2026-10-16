@@ -5,11 +5,6 @@
 ### LAN IP（ImmortalWrt 自己）
 lan_ip_address="192.168.1.229"
 
-### 网关（主路由）
-lan_gateway="192.168.1.251"
-
-### DNS
-lan_dns="223.5.5.5 114.114.114.114"
 
 ### 关闭 LAN 的 DHCP（避免和主路由冲突，旁路由必须关）
 # 在 config_generate 或 zzz-default-settings 里加：
